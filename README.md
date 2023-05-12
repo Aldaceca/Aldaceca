@@ -1,7 +1,12 @@
-### Hello There!!! I'am Alvaro Cedeño 
+### Hello There!!! I'am Alvaro Cedeño  
+
+***I am a FrontEnd Developer / Multimedia Engineer.***
+<br> 
+focused on creating and designing attractive and functional user interfaces for web applications, as well as creating interactive content that enhances the user experience.
 
 - 🔭 I’m currently working as a Frotend Developer && UI/UX
 - 🌱 I’m currently learning Typrescript
+- 🌌 ***"May the force be with you"***
 
 <div>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=aldaceca&show_icons=true&theme=react"/>
