@@ -3,6 +3,10 @@
 - 🔭 I’m currently working as a Frotend Developer
 - 🌱 I’m currently learning Typrescript
 
+<div>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=aldaceca&show_icons=true&theme=react"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldaceca&layout=compact&langs_count=16&theme=react"/>
+</div>
 
  **Languages I have worked with**
 <div style="display: inline_block">
@@ -15,7 +19,7 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </div>
   
-  ##
+  
  
 <div>  
   <a href = "mailto:waldaceca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
