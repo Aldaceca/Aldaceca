@@ -2,7 +2,7 @@
 
 ***I am a FrontEnd Developer / Multimedia Engineer.***
 <br> 
-focused on creating and designing attractive and functional user interfaces for web applications, as well as creating interactive content that enhances the user experience.
+Focused on creating and designing attractive and functional user interfaces for web applications, as well as creating interactive content that enhances the user experience.
 
 - 🔭 I’m currently working as a Frotend Developer && UI/UX
 - 🌱 I’m currently learning Typrescript
